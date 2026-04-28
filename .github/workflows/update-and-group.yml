@@ -131,7 +131,7 @@ jobs:
         id: create-pr
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.BOT_PR_TOKEN }}
           commit-message: "[bot::update-group] catalog sync ${{ github.run_id }}"
           branch: chore/catalog-sync
           base: main
@@ -150,6 +150,6 @@ jobs:
       - name: Enable auto-merge for catalog sync PR
         if: github.event_name != 'pull_request' && steps.create-pr.outputs.pull-request-number != ''
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN }}
         run: |
           gh pr merge "${{ steps.create-pr.outputs.pull-request-number }}" --auto --merge
