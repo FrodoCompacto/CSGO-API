@@ -1,0 +1,35 @@
+{
+  "version": "a659fc1aabf52bbd4f76307390d86d4244c203b1",
+  "generated_at": "2026-04-28T13:29:47.940Z",
+  "languages": [
+    "en",
+    "pt-BR"
+  ],
+  "files": {
+    "en": {
+      "skins.json": {
+        "path": "/public/api/en/skins.json",
+        "bytes": 5408532,
+        "sha256": "1710149ce23677f1a0b59ccdc2d8ffe3bf4b056e4f81113b8ef8af548943cd31"
+      },
+      "collections.json": {
+        "path": "/public/api/en/collections.json",
+        "bytes": 1340694,
+        "sha256": "7f609ab842ef649050c32a3c8c054eaa41cb798cefbeb526a4392481d7dbf71a"
+      }
+    },
+    "pt-BR": {
+      "skins.json": {
+        "path": "/public/api/pt-BR/skins.json",
+        "bytes": 5566638,
+        "sha256": "82d9935fbda7de48d5eb813b67596becce60193e456eae3660da41d633495dcc"
+      },
+      "collections.json": {
+        "path": "/public/api/pt-BR/collections.json",
+        "bytes": 1352232,
+        "sha256": "0bef2c29108b1f78abca205415a7cbf675e6b11d1b15c79c12135677fe93bf2e"
+      }
+    }
+  },
+  "manifest_sha256": "200b3fe08532a381f3cdb9a47eec37df31051b40ff57715e2606d9d9abe140f1"
+}
