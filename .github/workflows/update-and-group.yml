@@ -84,7 +84,6 @@ jobs:
           import crypto from "node:crypto";
 
           const languages = ["en", "pt-BR"];
-          const files = ["skins.json", "collections.json"];
           const baseDir = "public/api";
           const manifestPath = path.join(baseDir, "manifest.json");
 
@@ -99,8 +98,15 @@ jobs:
 
           for (const lang of languages) {
             manifest.files[lang] = {};
+            const langDir = path.join(baseDir, lang);
+            const files = fs
+              .readdirSync(langDir, { withFileTypes: true })
+              .filter(entry => entry.isFile() && entry.name.endsWith(".json"))
+              .map(entry => entry.name)
+              .sort();
+
             for (const file of files) {
-              const fullPath = path.join(baseDir, lang, file);
+              const fullPath = path.join(langDir, file);
               const raw = fs.readFileSync(fullPath);
               manifest.files[lang][file] = {
                 path: `/${baseDir}/${lang}/${file}`,
