@@ -1,35 +1,195 @@
 {
-  "version": "a659fc1aabf52bbd4f76307390d86d4244c203b1",
-  "generated_at": "2026-04-28T13:29:47.940Z",
+  "version": "3b62ba1d0093f1f2348df1bacf90cecefd4eb849",
+  "generated_at": "2026-04-28T16:09:41.725Z",
   "languages": [
     "en",
     "pt-BR"
   ],
   "files": {
     "en": {
-      "skins.json": {
-        "path": "/public/api/en/skins.json",
-        "bytes": 5408532,
-        "sha256": "1710149ce23677f1a0b59ccdc2d8ffe3bf4b056e4f81113b8ef8af548943cd31"
+      "agents.json": {
+        "path": "/public/api/en/agents.json",
+        "bytes": 93216,
+        "sha256": "819f7423f28202e7cd5830328bf66e2a7f8fd8a6f0ea6a630ec272e2ac93edb9"
+      },
+      "all.json": {
+        "path": "/public/api/en/all.json",
+        "bytes": 63712479,
+        "sha256": "dc56c5509a890bc746dafe479de6177a25571f35d90c8c639661dc13dddfed48"
+      },
+      "base_weapons.json": {
+        "path": "/public/api/en/base_weapons.json",
+        "bytes": 36803,
+        "sha256": "b213c84a2a5ff45f31f5d6fb812d47baeedc0a6464fe1c6abeeb2bde30ecefab"
+      },
+      "collectibles.json": {
+        "path": "/public/api/en/collectibles.json",
+        "bytes": 444101,
+        "sha256": "118ee41decadfc65019102d810ef71e201d69eda580a40ddfdcd1e1ec7b5243e"
       },
       "collections.json": {
         "path": "/public/api/en/collections.json",
         "bytes": 1340694,
         "sha256": "7f609ab842ef649050c32a3c8c054eaa41cb798cefbeb526a4392481d7dbf71a"
+      },
+      "crates.json": {
+        "path": "/public/api/en/crates.json",
+        "bytes": 7120416,
+        "sha256": "33d4c343238c15db7902f64c990f23250becc253773727d8d9f361df92a160e1"
+      },
+      "graffiti.json": {
+        "path": "/public/api/en/graffiti.json",
+        "bytes": 1901908,
+        "sha256": "3e8777a174a014bb85d7c5ebcdd9f0fb2a6bfbef2fb5cd254a7f5d4f313218cc"
+      },
+      "highlights.json": {
+        "path": "/public/api/en/highlights.json",
+        "bytes": 1009564,
+        "sha256": "be0a0faaaff0761d77e1cd406975887d1c20416fe3d6731318a8907524cddb19"
+      },
+      "inventory.json": {
+        "path": "/public/api/en/inventory.json",
+        "bytes": 10688738,
+        "sha256": "f1347d524bf715c8a2005c634470aad6ddcd60e59327cd02e1764c1e609891f5"
+      },
+      "keychains.json": {
+        "path": "/public/api/en/keychains.json",
+        "bytes": 83748,
+        "sha256": "ec4f2951bed5f15613d4bbec813f75e9cd47dce87a1782001988faec0dd67bc1"
+      },
+      "keys.json": {
+        "path": "/public/api/en/keys.json",
+        "bytes": 35685,
+        "sha256": "5c014e78e393e4a9b64dd1966b8c2c31aa1a4d36212a3b96a0991fcc652f656a"
+      },
+      "music_kits.json": {
+        "path": "/public/api/en/music_kits.json",
+        "bytes": 223692,
+        "sha256": "96e19cac331da997c2f9e432e6ee9e8bbede0f6006b851fdfe3c3169d2ae2d64"
+      },
+      "patches.json": {
+        "path": "/public/api/en/patches.json",
+        "bytes": 85374,
+        "sha256": "ebc71dffa1bb2f9ccf21b51624b56c0a0037b407bb77b7727777c1feaae8599d"
+      },
+      "skins.json": {
+        "path": "/public/api/en/skins.json",
+        "bytes": 5408532,
+        "sha256": "1710149ce23677f1a0b59ccdc2d8ffe3bf4b056e4f81113b8ef8af548943cd31"
+      },
+      "skins_not_grouped.json": {
+        "path": "/public/api/en/skins_not_grouped.json",
+        "bytes": 27556979,
+        "sha256": "d071257c5a661c88a42aa5c675724422bb804e0aefd66d7000e4c7d11e9babc5"
+      },
+      "sticker_slabs.json": {
+        "path": "/public/api/en/sticker_slabs.json",
+        "bytes": 15275994,
+        "sha256": "fc5373060464cf961d9dd4b33acf6895a619dffc2c45ce3fb04fc15f1c9debc3"
+      },
+      "stickers.json": {
+        "path": "/public/api/en/stickers.json",
+        "bytes": 16679872,
+        "sha256": "42eb3ef556f00808704e8bda52d0238ae84d395fdca32b4e40a7fbb9bf5d3342"
+      },
+      "tools.json": {
+        "path": "/public/api/en/tools.json",
+        "bytes": 1950,
+        "sha256": "a22f5ddb790d628f60bfb9e730a4986bb408c92e64961e96c3f31f85052d132b"
       }
     },
     "pt-BR": {
-      "skins.json": {
-        "path": "/public/api/pt-BR/skins.json",
-        "bytes": 5566638,
-        "sha256": "82d9935fbda7de48d5eb813b67596becce60193e456eae3660da41d633495dcc"
+      "agents.json": {
+        "path": "/public/api/pt-BR/agents.json",
+        "bytes": 96503,
+        "sha256": "b69fd45bb8dd06cccd54eac19638396c0465027af4049c2b31e4ec75ad5004d7"
+      },
+      "all.json": {
+        "path": "/public/api/pt-BR/all.json",
+        "bytes": 65249323,
+        "sha256": "6b8fcbc011f00d7c4a6f58040b934621f098a3e047126f0eb97ce6db96b5bc8e"
+      },
+      "base_weapons.json": {
+        "path": "/public/api/pt-BR/base_weapons.json",
+        "bytes": 37813,
+        "sha256": "90eb323d6d3d1c1fd0ace577115919ea8a18d06291a7fada3b6566f44d098582"
+      },
+      "collectibles.json": {
+        "path": "/public/api/pt-BR/collectibles.json",
+        "bytes": 453363,
+        "sha256": "9769644d3f8cf450f5be452d1dc295421006c394c245a08c025a6e059a5ec58f"
       },
       "collections.json": {
         "path": "/public/api/pt-BR/collections.json",
         "bytes": 1352232,
         "sha256": "0bef2c29108b1f78abca205415a7cbf675e6b11d1b15c79c12135677fe93bf2e"
+      },
+      "crates.json": {
+        "path": "/public/api/pt-BR/crates.json",
+        "bytes": 7206998,
+        "sha256": "136505d2360b27c4b94eff32d0804235f2e78b1337c8a44920d7efbf2aeba5cb"
+      },
+      "graffiti.json": {
+        "path": "/public/api/pt-BR/graffiti.json",
+        "bytes": 1798645,
+        "sha256": "d9dd5812caee3d429f35163a3e145f04d49d50f1fae64febf844817c789c7019"
+      },
+      "highlights.json": {
+        "path": "/public/api/pt-BR/highlights.json",
+        "bytes": 1026210,
+        "sha256": "d7589dd09dc402c9a71b1df2c8fb8cd38736939e8c8f3f5ab1d0ba91a4a5794a"
+      },
+      "inventory.json": {
+        "path": "/public/api/pt-BR/inventory.json",
+        "bytes": 10880490,
+        "sha256": "5646d74509638e919d3bce4f81f3d8eed50005624328f77a546fe0cedf831a15"
+      },
+      "keychains.json": {
+        "path": "/public/api/pt-BR/keychains.json",
+        "bytes": 83894,
+        "sha256": "1c0f646f5e34fa18cc692f6f93d72d7bc9a521d70ad9a17340d1104f9d74ef69"
+      },
+      "keys.json": {
+        "path": "/public/api/pt-BR/keys.json",
+        "bytes": 36661,
+        "sha256": "c1aac1a676145e29d1a91adbe7b48b192ed8b5f41351ca136d6a3249a4ed785c"
+      },
+      "music_kits.json": {
+        "path": "/public/api/pt-BR/music_kits.json",
+        "bytes": 243098,
+        "sha256": "adf21c0b76eb51b70a7b1fb39c5e73157a2155ef7722a971792e4abc2927c9be"
+      },
+      "patches.json": {
+        "path": "/public/api/pt-BR/patches.json",
+        "bytes": 89256,
+        "sha256": "272bb9739df9374bb3f3332f1451adef528cad4e5542d69a55d8852f61df32a5"
+      },
+      "skins.json": {
+        "path": "/public/api/pt-BR/skins.json",
+        "bytes": 5566638,
+        "sha256": "82d9935fbda7de48d5eb813b67596becce60193e456eae3660da41d633495dcc"
+      },
+      "skins_not_grouped.json": {
+        "path": "/public/api/pt-BR/skins_not_grouped.json",
+        "bytes": 28310534,
+        "sha256": "451d8f0ee2180bce07edf4f15d4f01b54a505ab2da1bca6f99dc0627ea0fe99c"
+      },
+      "sticker_slabs.json": {
+        "path": "/public/api/pt-BR/sticker_slabs.json",
+        "bytes": 15559836,
+        "sha256": "5ac13ac84bfd6fc1ed5d05a394d5f3a30655127c57e0db22c753a75c743722b0"
+      },
+      "stickers.json": {
+        "path": "/public/api/pt-BR/stickers.json",
+        "bytes": 17147521,
+        "sha256": "1a04c422482a1de6603987c4b938bd2522ca4f1bc2bb883b89f5322b3cb3cbad"
+      },
+      "tools.json": {
+        "path": "/public/api/pt-BR/tools.json",
+        "bytes": 1932,
+        "sha256": "97a641c77d0f866ba248b961f909e27c248b39a49c52e78168678f49705499c2"
       }
     }
   },
-  "manifest_sha256": "200b3fe08532a381f3cdb9a47eec37df31051b40ff57715e2606d9d9abe140f1"
+  "manifest_sha256": "d516171114a5a9921ba7ecef1060dcbfe86fb89be2d2beda5f8f9343ee2263ea"
 }
