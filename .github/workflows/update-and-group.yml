@@ -15,6 +15,8 @@ on:
         required: false
         default: ""
         type: string
+  schedule:
+    - cron: "0 6 * * *"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -25,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES }}
+      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES || 'en,pt-BR' }}
       FORCE_FLAG: ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
     steps:
@@ -33,34 +35,85 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+          cache: npm
+
+      - name: Validate LANGUAGES env
+        run: |
+          echo "LANGUAGES=${LANGUAGES}"
+          if [ -z "${LANGUAGES}" ]; then
+            echo "LANGUAGES is empty"
+            exit 1
+          fi
+          if [[ "${LANGUAGES}" != *"en"* ]] || [[ "${LANGUAGES}" != *"pt-BR"* ]]; then
+            echo "LANGUAGES must include en and pt-BR"
+            exit 1
+          fi
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       # Update step
       - name: Update data
         id: update-data
-        run: node update.js $FORCE_FLAG ${LANGUAGES:+--languages "$LANGUAGES"}
-
-      - name: Read manifestIdUpdate.txt
-        id: manifestIdUpdate
-        uses: juliangruber/read-file-action@v1
-        with:
-          path: ./manifestIdUpdate.txt
+        run: node update.js $FORCE_FLAG --languages "${LANGUAGES}"
 
       # Group step
       - name: Group data
         id: group-data
-        run: node group.js $FORCE_FLAG ${LANGUAGES:+--languages "$LANGUAGES"}
-      
-      - name: Read manifestIdGroup.txt
-        id: manifestIdGroup
-        uses: juliangruber/read-file-action@v1
-        with:
-          path: ./manifestIdGroup.txt
-      
-      # Commit all changes
+        run: node group.js $FORCE_FLAG --languages "${LANGUAGES}"
+
+      - name: Validate required outputs
+        run: |
+          test -f public/api/en/skins.json
+          test -f public/api/en/collections.json
+          test -f public/api/pt-BR/skins.json
+          test -f public/api/pt-BR/collections.json
+
+      - name: Generate manifest.json
+        run: |
+          node --input-type=module <<'EOF'
+          import fs from "node:fs";
+          import path from "node:path";
+          import crypto from "node:crypto";
+
+          const languages = ["en", "pt-BR"];
+          const files = ["skins.json", "collections.json"];
+          const baseDir = "public/api";
+          const manifestPath = path.join(baseDir, "manifest.json");
+
+          const sha256 = buf => crypto.createHash("sha256").update(buf).digest("hex");
+
+          const manifest = {
+            version: process.env.GITHUB_SHA || "local",
+            generated_at: new Date().toISOString(),
+            languages,
+            files: {},
+          };
+
+          for (const lang of languages) {
+            manifest.files[lang] = {};
+            for (const file of files) {
+              const fullPath = path.join(baseDir, lang, file);
+              const raw = fs.readFileSync(fullPath);
+              manifest.files[lang][file] = {
+                path: `/${baseDir}/${lang}/${file}`,
+                bytes: raw.length,
+                sha256: sha256(raw),
+              };
+            }
+          }
+
+          const manifestRaw = Buffer.from(JSON.stringify(manifest, null, 2));
+          manifest.manifest_sha256 = sha256(manifestRaw);
+
+          fs.writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
+          EOF
+
+      - name: Validate manifest exists
+        run: test -f public/api/manifest.json
+
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "[bot::update-group] manifest ${{ steps.manifestIdUpdate.outputs.content }}"
+          commit_message: "[bot::update-group] catalog sync ${{ github.run_id }}"
+          file_pattern: public/api/** manifestIdUpdate.txt imagesShaUpdate.txt manifestIdGroup.txt imagesShaGroup.txt
