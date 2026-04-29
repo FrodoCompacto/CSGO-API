@@ -58,7 +58,7 @@ jobs:
         if: steps.sync.outputs.changed == 'true'
         id: pr
         env:
-          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN }}
+          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN_SYNC }}
         run: |
           set -euo pipefail
 
@@ -78,6 +78,6 @@ jobs:
       - name: Enable auto-merge
         if: steps.sync.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN }}
+          GH_TOKEN: ${{ secrets.BOT_PR_TOKEN_SYNC }}
         run: |
           gh pr merge "${{ steps.pr.outputs.number }}" --auto --merge
