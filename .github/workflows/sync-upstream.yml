@@ -65,25 +65,38 @@ jobs:
           PR_NUMBER="$(gh pr list --head "${SYNC_BRANCH}" --base main --state open --json number --jq '.[0].number')"
 
           if [ -z "${PR_NUMBER}" ]; then
-            AHEAD_BY="$(gh api "repos/${GITHUB_REPOSITORY}/compare/main...${SYNC_BRANCH}" --jq '.ahead_by')"
-            if [ "${AHEAD_BY}" = "0" ]; then
-              echo "No commits ahead of main for ${SYNC_BRANCH}; skipping PR creation."
-              echo "number=" >> "$GITHUB_OUTPUT"
-              exit 0
-            fi
+            # The branch ref can take a few seconds to become queryable after push.
+            for attempt in 1 2 3 4 5 6; do
+              AHEAD_BY="$(gh api "repos/${GITHUB_REPOSITORY}/compare/main...${SYNC_BRANCH}" --jq '.ahead_by' 2>/dev/null || echo 0)"
+              if [ "${AHEAD_BY}" = "0" ]; then
+                echo "No commits ahead of main for ${SYNC_BRANCH}; skipping PR creation."
+                echo "number=" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
 
-            gh pr create \
-              --base main \
-              --head "${SYNC_BRANCH}" \
-              --title "chore: sync fork with upstream" \
-              --body "Automated weekly upstream sync. This PR will be auto-merged after required checks pass."
+              if gh pr create \
+                --base main \
+                --head "${SYNC_BRANCH}" \
+                --title "chore: sync fork with upstream" \
+                --body "Automated weekly upstream sync. This PR will be auto-merged after required checks pass."; then
+                break
+              fi
+
+              echo "PR creation attempt ${attempt} failed, retrying in 5s..."
+              sleep 5
+            done
+
             PR_NUMBER="$(gh pr list --head "${SYNC_BRANCH}" --base main --state open --json number --jq '.[0].number')"
+            if [ -z "${PR_NUMBER}" ]; then
+              echo "Failed to create or locate PR for ${SYNC_BRANCH}."
+              exit 1
+            fi
           fi
 
           echo "number=${PR_NUMBER}" >> "$GITHUB_OUTPUT"
 
       - name: Enable auto-merge
-        if: steps.sync.outputs.changed == 'true'
+        if: steps.sync.outputs.changed == 'true' && steps.pr.outputs.number != ''
         env:
           GH_TOKEN: ${{ secrets.BOT_PR_TOKEN_SYNC }}
         run: |
