@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  workflows: write
 
 jobs:
   sync-upstream:
@@ -56,6 +55,9 @@ jobs:
                 imagesShaGroup.txt|imagesShaUpdate.txt|manifestIdUpdate.txt|manifestIdGroup.txt)
                   strategy=ours
                   ;;
+                .github/workflows/*)
+                  strategy=ours
+                  ;;
                 public/api/en/*|public/api/pt-BR/*|public/api/manifest.json)
                   strategy=ours
                   ;;
@@ -90,6 +92,15 @@ jobs:
             echo "Upstream merge conflict detected. Manual sync is required."
             git merge --abort 2>/dev/null || true
             exit 1
+          fi
+
+          # GITHUB_TOKEN cannot push workflow file changes; keep fork definitions.
+          if ! git diff --quiet origin/main HEAD -- .github/workflows/; then
+            git checkout origin/main -- .github/workflows/
+            git add .github/workflows/
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(upstream-sync): preserve fork workflow files"
+            fi
           fi
 
           if git diff --quiet "origin/main...HEAD"; then
