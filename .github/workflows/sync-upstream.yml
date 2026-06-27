@@ -38,15 +38,63 @@ jobs:
 
           git checkout -B "${SYNC_BRANCH}" "origin/main"
 
-          if git merge --no-ff --no-edit "upstream/${UPSTREAM_BRANCH}"; then
-            if git diff --quiet "origin/main...HEAD"; then
-              echo "changed=false" >> "$GITHUB_OUTPUT"
-            else
-              echo "changed=true" >> "$GITHUB_OUTPUT"
+          merge_upstream() {
+            git merge --no-ff --no-edit "upstream/${UPSTREAM_BRANCH}"
+          }
+
+          # Both repos regenerate catalog JSON independently; keep fork-owned outputs
+          # on conflict and accept upstream for other locale trees under public/api/.
+          resolve_generated_conflicts() {
+            local file strategy
+            local had_generated=false
+
+            while IFS= read -r file; do
+              [ -n "${file}" ] || continue
+
+              case "${file}" in
+                imagesShaGroup.txt|imagesShaUpdate.txt|manifestIdUpdate.txt|manifestIdGroup.txt)
+                  strategy=ours
+                  ;;
+                public/api/en/*|public/api/pt-BR/*|public/api/manifest.json)
+                  strategy=ours
+                  ;;
+                public/api/*)
+                  strategy=theirs
+                  ;;
+                *)
+                  echo "Manual sync required: non-generated conflict in ${file}"
+                  return 1
+                  ;;
+              esac
+
+              git checkout "--${strategy}" -- "${file}"
+              git add "${file}"
+              echo "Auto-resolved generated conflict (${strategy}): ${file}"
+              had_generated=true
+            done < <(git diff --name-only --diff-filter=U)
+
+            if [ "${had_generated}" = false ]; then
+              echo "Merge failed without unmerged paths to inspect."
+              return 1
             fi
+
+            git commit --no-edit
+          }
+
+          if merge_upstream; then
+            :
+          elif resolve_generated_conflicts; then
+            echo "Merge completed after auto-resolving generated catalog conflicts."
           else
             echo "Upstream merge conflict detected. Manual sync is required."
+            git merge --abort 2>/dev/null || true
             exit 1
+          fi
+
+          if git diff --quiet "origin/main...HEAD"; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Push sync branch
