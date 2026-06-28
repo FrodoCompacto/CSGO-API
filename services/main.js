@@ -354,9 +354,11 @@ export const loadyCratesBySkins = () => {
                 const crateItem =
                     hardCodedCrates[crateKey] ||
                     state.items[crateKey] ||
-                    Object.values(state.items).find(
-                        i => i.attributes?.["set supply crate series"]?.value == lootList?.[0]
-                    );
+                    Object.values(state.items).find(i => {
+                        const series = i.attributes?.["set supply crate series"];
+                        const value = typeof series === "object" ? series?.value : series;
+                        return value == lootList?.[0];
+                    });
 
                 if (crateItem != null) {
                     acc[item.id].push({
@@ -523,33 +525,6 @@ export const loadCollectionsByStickers = () => {
                 });
             return acc;
         }, {});
-};
-
-export const loadSouvenirSkins = () => {
-    state.souvenirSkins = {
-        ...Object.values(state.items)
-            .filter(item => {
-                return (
-                    item.prefab === "weapon_case_souvenirpkg" ||
-                    item.prefab?.includes("_souvenir_crate_promo_prefab")
-                );
-            })
-            .map(item => {
-                const lootListName = item?.loot_list_name ?? null;
-                const attributeValue = item.attributes?.["set supply crate series"]?.value ?? null;
-                const keyLootList = lootListName ?? state.revolvingLootLists[attributeValue] ?? null;
-
-                return (
-                    state.skinsByCrates?.[item.tags?.ItemSet?.tag_value] ??
-                    state.skinsByCrates?.[keyLootList] ??
-                    []
-                );
-            })
-            .flatMap(level1 => level1)
-            .reduce((acc, item) => ({ ...acc, [item.id]: true }), {}),
-
-        "skin-e73d6e7e9004": true, // MP5-SD | Lab Rats
-    };
 };
 
 export const loadStattrakSkins = () => {
@@ -894,7 +869,6 @@ export const loadData = async () => {
     loadCratesByCollections();
     loadCollectionsBySkins();
     loadCollectionsByStickers();
-    loadSouvenirSkins();
     loadStattrakSkins();
     loadHighlights();
     loadProTeams();
