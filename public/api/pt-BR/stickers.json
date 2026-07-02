@@ -426987,5 +426987,965 @@
    "name": "cologne2026_signature_nettik_gold",
    "image_inventory": "econ/stickers/cologne2026/sig_nettik_gold"
   }
+ },
+ {
+  "id": "sticker-11174",
+  "name": "Adesivo | NiKo (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11174",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion"
+  }
+ },
+ {
+  "id": "sticker-11175",
+  "name": "Adesivo | NiKo (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This foil sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11175",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11176",
+  "name": "Adesivo | NiKo (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This holographic sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11176",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11177",
+  "name": "Adesivo | NiKo (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This gold sticker was autographed by professional player Nikola Kovač playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11177",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | NiKo (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 81417650,
+   "name": "NiKo",
+   "code": "niko",
+   "dob": "1997-02-16",
+   "geo": "BA"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_niko_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_niko_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11178",
+  "name": "Adesivo | kyxsan (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11178",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion"
+  }
+ },
+ {
+  "id": "sticker-11179",
+  "name": "Adesivo | kyxsan (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This foil sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11179",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11180",
+  "name": "Adesivo | kyxsan (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This holographic sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11180",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11181",
+  "name": "Adesivo | kyxsan (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This gold sticker was autographed by professional player Damjan Stoilkovski playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11181",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyxsan (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 97016704,
+   "name": "kyxsan",
+   "code": "kyxsan",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyxsan_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyxsan_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11182",
+  "name": "Adesivo | m0NESY (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11182",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion"
+  }
+ },
+ {
+  "id": "sticker-11183",
+  "name": "Adesivo | m0NESY (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This foil sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11183",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11184",
+  "name": "Adesivo | m0NESY (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This holographic sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11184",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11185",
+  "name": "Adesivo | m0NESY (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This gold sticker was autographed by professional player Ilia Osipov playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11185",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | m0NESY (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 114497073,
+   "name": "m0NESY",
+   "code": "m0nesy",
+   "dob": "2005-05-01",
+   "geo": "RU"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_m0nesy_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_m0nesy_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11186",
+  "name": "Adesivo | TeSeS (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11186",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion"
+  }
+ },
+ {
+  "id": "sticker-11187",
+  "name": "Adesivo | TeSeS (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This foil sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11187",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11188",
+  "name": "Adesivo | TeSeS (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This holographic sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11188",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11189",
+  "name": "Adesivo | TeSeS (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This gold sticker was autographed by professional player René Stensig Madsen playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11189",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | TeSeS (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 36412550,
+   "name": "TeSeS",
+   "code": "teses",
+   "dob": "2000-12-12",
+   "geo": "DK"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_teses_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_teses_champion_gold"
+  }
+ },
+ {
+  "id": "sticker-11190",
+  "name": "Adesivo | kyousuke (Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11190",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion"
+  }
+ },
+ {
+  "id": "sticker-11191",
+  "name": "Adesivo | kyousuke (Foil, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This foil sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11191",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Foil, Champion) | Cologne 2026",
+  "effect": "Other",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_foil_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_foil"
+  }
+ },
+ {
+  "id": "sticker-11192",
+  "name": "Adesivo | kyousuke (Holo, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This holographic sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11192",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Holo, Champion) | Cologne 2026",
+  "effect": "Holo",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_holo_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_holo"
+  }
+ },
+ {
+  "id": "sticker-11193",
+  "name": "Adesivo | kyousuke (Gold, Champion) | Cologne 2026",
+  "description": "<span style='color:#ffd700;'>Este item comemora o Campeonato Mundial de CS2 Colônia 2026 da IEM.</span><br/><br/> Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.<br><br>This gold sticker was autographed by professional player Maksim Lukin playing for Falcons, Champion at the IEM Cologne 2026 CS2 Major Championship.",
+  "def_index": "11193",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-5318",
+    "name": "Cápsula de Autógrafos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   },
+   {
+    "id": "crate-5329",
+    "name": "Cápsula de Adesivos do Colônia 2026",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+   }
+  ],
+  "collections": [],
+  "type": "Autograph",
+  "market_hash_name": "Sticker | kyousuke (Gold, Champion) | Cologne 2026",
+  "effect": "Gold",
+  "tournament": {
+   "id": 26,
+   "name": "Colônia 2026 da IEM"
+  },
+  "team": {
+   "id": 139,
+   "tag": "FAL",
+   "name": "Falcons"
+  },
+  "player": {
+   "id": 1071740496,
+   "name": "kyousuke",
+   "code": "kyousuke",
+   "dob": "1970-01-01",
+   "geo": "WORLD"
+  },
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png",
+  "original": {
+   "name": "cologne2026_signature_kyousuke_gold_champion",
+   "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold"
+  }
  }
 ]
