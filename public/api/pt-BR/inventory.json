@@ -25608,6 +25608,16 @@
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
   },
+  "5329": {
+   "name": "Cápsula de Adesivos do Colônia 2026",
+   "rarity": {
+    "id": "rarity_common",
+    "name": "Nível Básico",
+    "color": "#b0c3d9"
+   },
+   "marketable": true,
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
+  },
   "7003": {
    "name": "Caixa da Galeria",
    "rarity": {
@@ -136511,6 +136521,206 @@
    },
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_m4L09Clk6P2ibOo9dqfDWTDAwLwm6bdqTijkxk91smzUw9r8Ii2TZwd0CJB4Ee8Puka6jJS5YImfNjPl"
+  },
+  "11174": {
+   "name": "Adesivo | NiKo (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_png.png"
+  },
+  "11175": {
+   "name": "Adesivo | NiKo (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png"
+  },
+  "11176": {
+   "name": "Adesivo | NiKo (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png"
+  },
+  "11177": {
+   "name": "Adesivo | NiKo (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png"
+  },
+  "11178": {
+   "name": "Adesivo | kyxsan (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png"
+  },
+  "11179": {
+   "name": "Adesivo | kyxsan (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png"
+  },
+  "11180": {
+   "name": "Adesivo | kyxsan (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png"
+  },
+  "11181": {
+   "name": "Adesivo | kyxsan (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png"
+  },
+  "11182": {
+   "name": "Adesivo | m0NESY (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png"
+  },
+  "11183": {
+   "name": "Adesivo | m0NESY (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png"
+  },
+  "11184": {
+   "name": "Adesivo | m0NESY (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png"
+  },
+  "11185": {
+   "name": "Adesivo | m0NESY (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png"
+  },
+  "11186": {
+   "name": "Adesivo | TeSeS (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_png.png"
+  },
+  "11187": {
+   "name": "Adesivo | TeSeS (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png"
+  },
+  "11188": {
+   "name": "Adesivo | TeSeS (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png"
+  },
+  "11189": {
+   "name": "Adesivo | TeSeS (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png"
+  },
+  "11190": {
+   "name": "Adesivo | kyousuke (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png"
+  },
+  "11191": {
+   "name": "Adesivo | kyousuke (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png"
+  },
+  "11192": {
+   "name": "Adesivo | kyousuke (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png"
+  },
+  "11193": {
+   "name": "Adesivo | kyousuke (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png"
   }
  },
  "graffiti": {
@@ -164539,6 +164749,372 @@
    "rarity": null,
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWjIH_FtQQgu4z31VvyRU-hzMOurHcDvfOrOPFucfWWDDaTxbwl5LBvSnrgxhsk4TjSn437J3zGOFcmCYwwG7A7om1dgw"
+  },
+  "866": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | ultimate Jump Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "867": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | tabseN 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "868": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | koala ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "869": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Starry Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "870": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | asap ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "871": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | hypex Smoke Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "872": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | susp 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "873": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | beastik Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "874": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | s1zzi 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "875": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Magnojez 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "876": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NertZ ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "877": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Gizmy Knife Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "878": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | MATYS ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "879": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | saffee Triple Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "880": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | gr1ks 1v3 AWP Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "881": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kensizor ACE to Advance",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "882": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | s1zzi ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "883": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | venomzera 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "884": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | donk 4K with One Taps",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "885": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | AZUWU Deagle ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "886": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | w0nderful 2 HP 1v4 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "887": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro 4K with 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "888": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx Multi-weapon ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "889": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "890": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR Triple Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "891": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | ZywOo ACE with 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "892": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | dgt Pistol ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "893": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | woxic 1v4 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "894": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NiKo Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "895": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Krabeni ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "896": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Boombl4 1v3 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "897": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | soulfly 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "898": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "899": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx 1v4 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "900": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | donk 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "901": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke 3 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "902": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | mezii Molotov Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "903": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | yuurih 1v4 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "904": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | HUASOPEEK ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "905": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | max 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "906": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | soulfly 3 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "907": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO ACE",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "908": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR 2 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "909": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | YEKINDAR 3 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "910": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | KSCERATO Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "911": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke Triple Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "912": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | sh1ro Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "913": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | TeSeS 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "914": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan 4 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "915": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | magixx 4 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "916": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Falcons Team Entrance",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "917": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | FURIA Team Entrance",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "918": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | FalleN Quad Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "919": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY 4 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "920": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY 3 Kills with 1v2 Clutch",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "921": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | kyousuke 4 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "922": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan 3 Kills",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "923": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | NiKo Triple Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "924": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | karrigan Double Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "925": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | m0NESY Major-winning Kill",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+  },
+  "926": {
+   "name": "Chaveiro (Lembrança) | Destaque do Colônia 2026 | Falcons Trophy-lifting Moment",
+   "rarity": null,
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
   }
  },
  "agents": {
@@ -270941,6 +271517,206 @@
    },
    "marketable": true,
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_nettik_gold_1355_37_png.png"
+  },
+  "11174": {
+   "name": "Placa de Adesivo | NiKo (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_1355_37_png.png"
+  },
+  "11175": {
+   "name": "Placa de Adesivo | NiKo (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_foil_1355_37_png.png"
+  },
+  "11176": {
+   "name": "Placa de Adesivo | NiKo (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_holo_1355_37_png.png"
+  },
+  "11177": {
+   "name": "Placa de Adesivo | NiKo (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_gold_1355_37_png.png"
+  },
+  "11178": {
+   "name": "Placa de Adesivo | kyxsan (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_1355_37_png.png"
+  },
+  "11179": {
+   "name": "Placa de Adesivo | kyxsan (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_1355_37_png.png"
+  },
+  "11180": {
+   "name": "Placa de Adesivo | kyxsan (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_1355_37_png.png"
+  },
+  "11181": {
+   "name": "Placa de Adesivo | kyxsan (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_1355_37_png.png"
+  },
+  "11182": {
+   "name": "Placa de Adesivo | m0NESY (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_1355_37_png.png"
+  },
+  "11183": {
+   "name": "Placa de Adesivo | m0NESY (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_1355_37_png.png"
+  },
+  "11184": {
+   "name": "Placa de Adesivo | m0NESY (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_1355_37_png.png"
+  },
+  "11185": {
+   "name": "Placa de Adesivo | m0NESY (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_1355_37_png.png"
+  },
+  "11186": {
+   "name": "Placa de Adesivo | TeSeS (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_1355_37_png.png"
+  },
+  "11187": {
+   "name": "Placa de Adesivo | TeSeS (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_foil_1355_37_png.png"
+  },
+  "11188": {
+   "name": "Placa de Adesivo | TeSeS (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_holo_1355_37_png.png"
+  },
+  "11189": {
+   "name": "Placa de Adesivo | TeSeS (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_gold_1355_37_png.png"
+  },
+  "11190": {
+   "name": "Placa de Adesivo | kyousuke (Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_1355_37_png.png"
+  },
+  "11191": {
+   "name": "Placa de Adesivo | kyousuke (Foil, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_1355_37_png.png"
+  },
+  "11192": {
+   "name": "Placa de Adesivo | kyousuke (Holo, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_1355_37_png.png"
+  },
+  "11193": {
+   "name": "Placa de Adesivo | kyousuke (Gold, Champion) | Cologne 2026",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37_png.png"
   }
  },
  "tools": {
