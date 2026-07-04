@@ -427947,5 +427947,1058 @@
    "name": "cologne2026_signature_kyousuke_gold_champion",
    "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold"
   }
+ },
+ {
+  "id": "sticker-11196",
+  "name": "Adesivo | Airhorn",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11196",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Airhorn",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_png.png",
+  "original": {
+   "name": "paper_airhorn",
+   "image_inventory": "econ/stickers/community/jackass/paper_airhorn"
+  }
+ },
+ {
+  "id": "sticker-11197",
+  "name": "Adesivo | Assterisk",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11197",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Assterisk",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_png.png",
+  "original": {
+   "name": "paper_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/paper_assterisk"
+  }
+ },
+ {
+  "id": "sticker-11198",
+  "name": "Adesivo | Big Red Rocket",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11198",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Big Red Rocket",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_png.png",
+  "original": {
+   "name": "paper_big_red_rocket",
+   "image_inventory": "econ/stickers/community/jackass/paper_big_red_rocket"
+  }
+ },
+ {
+  "id": "sticker-11199",
+  "name": "Adesivo | Boner Snap",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11199",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Boner Snap",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_png.png",
+  "original": {
+   "name": "paper_boner_snap",
+   "image_inventory": "econ/stickers/community/jackass/paper_boner_snap"
+  }
+ },
+ {
+  "id": "sticker-11200",
+  "name": "Adesivo | Censored",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11200",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Censored",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_png.png",
+  "original": {
+   "name": "paper_censored",
+   "image_inventory": "econ/stickers/community/jackass/paper_censored"
+  }
+ },
+ {
+  "id": "sticker-11201",
+  "name": "Adesivo | Explosives",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11201",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Explosives",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_png.png",
+  "original": {
+   "name": "paper_explosives",
+   "image_inventory": "econ/stickers/community/jackass/paper_explosives"
+  }
+ },
+ {
+  "id": "sticker-11202",
+  "name": "Adesivo | Golf Cart",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11202",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Golf Cart",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_png.png",
+  "original": {
+   "name": "paper_golf_cart",
+   "image_inventory": "econ/stickers/community/jackass/paper_golf_cart"
+  }
+ },
+ {
+  "id": "sticker-11203",
+  "name": "Adesivo | Gonna Leave A Mark",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11203",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Gonna Leave A Mark",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_png.png",
+  "original": {
+   "name": "paper_leave_a_mark",
+   "image_inventory": "econ/stickers/community/jackass/paper_leave_a_mark"
+  }
+ },
+ {
+  "id": "sticker-11204",
+  "name": "Adesivo | Head In Hands",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11204",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Head In Hands",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_png.png",
+  "original": {
+   "name": "paper_head_in_hands",
+   "image_inventory": "econ/stickers/community/jackass/paper_head_in_hands"
+  }
+ },
+ {
+  "id": "sticker-11205",
+  "name": "Adesivo | High Five!",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11205",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | High Five!",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_png.png",
+  "original": {
+   "name": "paper_high_five",
+   "image_inventory": "econ/stickers/community/jackass/paper_high_five"
+  }
+ },
+ {
+  "id": "sticker-11206",
+  "name": "Adesivo | Jackass",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11206",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Jackass",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_png.png",
+  "original": {
+   "name": "paper_jackass",
+   "image_inventory": "econ/stickers/community/jackass/paper_jackass"
+  }
+ },
+ {
+  "id": "sticker-11207",
+  "name": "Adesivo | Partyboy",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11207",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Partyboy",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_png.png",
+  "original": {
+   "name": "paper_partyboy",
+   "image_inventory": "econ/stickers/community/jackass/paper_partyboy"
+  }
+ },
+ {
+  "id": "sticker-11208",
+  "name": "Adesivo | Radiograph",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11208",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Radiograph",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_png.png",
+  "original": {
+   "name": "paper_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/paper_radiograph"
+  }
+ },
+ {
+  "id": "sticker-11209",
+  "name": "Adesivo | Rocket Skates",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11209",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Rocket Skates",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_png.png",
+  "original": {
+   "name": "paper_rocket_skates",
+   "image_inventory": "econ/stickers/community/jackass/paper_rocket_skates"
+  }
+ },
+ {
+  "id": "sticker-11210",
+  "name": "Adesivo | Skull Bunny",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11210",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Skull Bunny",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_png.png",
+  "original": {
+   "name": "paper_skull_bunny",
+   "image_inventory": "econ/stickers/community/jackass/paper_skull_bunny"
+  }
+ },
+ {
+  "id": "sticker-11211",
+  "name": "Adesivo | The Magic Trick",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11211",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | The Magic Trick",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_png.png",
+  "original": {
+   "name": "paper_bull",
+   "image_inventory": "econ/stickers/community/jackass/paper_bull"
+  }
+ },
+ {
+  "id": "sticker-11212",
+  "name": "Adesivo | WARNING",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11212",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | WARNING",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_png.png",
+  "original": {
+   "name": "paper_warning",
+   "image_inventory": "econ/stickers/community/jackass/paper_warning"
+  }
+ },
+ {
+  "id": "sticker-11213",
+  "name": "Adesivo | ZZZAP!",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11213",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | ZZZAP!",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_png.png",
+  "original": {
+   "name": "paper_zzzap",
+   "image_inventory": "econ/stickers/community/jackass/paper_zzzap"
+  }
+ },
+ {
+  "id": "sticker-11214",
+  "name": "Adesivo | Airhorn (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11214",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Airhorn (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_png.png",
+  "original": {
+   "name": "glitter_airhorn",
+   "image_inventory": "econ/stickers/community/jackass/glitter_airhorn"
+  }
+ },
+ {
+  "id": "sticker-11215",
+  "name": "Adesivo | Assterisk (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11215",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Assterisk (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_png.png",
+  "original": {
+   "name": "glitter_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/glitter_assterisk"
+  }
+ },
+ {
+  "id": "sticker-11216",
+  "name": "Adesivo | Big Red Rocket (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11216",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Big Red Rocket (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_png.png",
+  "original": {
+   "name": "glitter_big_red_rocket",
+   "image_inventory": "econ/stickers/community/jackass/glitter_big_red_rocket"
+  }
+ },
+ {
+  "id": "sticker-11217",
+  "name": "Adesivo | Head In Hands (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11217",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Head In Hands (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_png.png",
+  "original": {
+   "name": "glitter_head_in_hands",
+   "image_inventory": "econ/stickers/community/jackass/glitter_head_in_hands"
+  }
+ },
+ {
+  "id": "sticker-11218",
+  "name": "Adesivo | High Five! (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11218",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | High Five! (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_png.png",
+  "original": {
+   "name": "glitter_high_five",
+   "image_inventory": "econ/stickers/community/jackass/glitter_high_five"
+  }
+ },
+ {
+  "id": "sticker-11219",
+  "name": "Adesivo | Skull Bunny (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11219",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Skull Bunny (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_png.png",
+  "original": {
+   "name": "glitter_skull_bunny",
+   "image_inventory": "econ/stickers/community/jackass/glitter_skull_bunny"
+  }
+ },
+ {
+  "id": "sticker-11220",
+  "name": "Adesivo | The Magic Trick (Glitter)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11220",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | The Magic Trick (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_png.png",
+  "original": {
+   "name": "glitter_bull",
+   "image_inventory": "econ/stickers/community/jackass/glitter_bull"
+  }
+ },
+ {
+  "id": "sticker-11221",
+  "name": "Adesivo | Boner Snap (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11221",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Boner Snap (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_png.png",
+  "original": {
+   "name": "holo_boner_snap",
+   "image_inventory": "econ/stickers/community/jackass/holo_boner_snap"
+  }
+ },
+ {
+  "id": "sticker-11222",
+  "name": "Adesivo | Jackass (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11222",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Jackass (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_png.png",
+  "original": {
+   "name": "holo_jackass",
+   "image_inventory": "econ/stickers/community/jackass/holo_jackass"
+  }
+ },
+ {
+  "id": "sticker-11223",
+  "name": "Adesivo | Gonna Leave A Mark (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11223",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Gonna Leave A Mark (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_png.png",
+  "original": {
+   "name": "holo_leave_a_mark",
+   "image_inventory": "econ/stickers/community/jackass/holo_leave_a_mark"
+  }
+ },
+ {
+  "id": "sticker-11224",
+  "name": "Adesivo | Partyboy (Lenticular)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11224",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Partyboy (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_png.png",
+  "original": {
+   "name": "lenticular_partyboy",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_partyboy"
+  }
+ },
+ {
+  "id": "sticker-11225",
+  "name": "Adesivo | Radiograph (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11225",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Radiograph (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_png.png",
+  "original": {
+   "name": "holo_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/holo_radiograph"
+  }
+ },
+ {
+  "id": "sticker-11226",
+  "name": "Adesivo | Rocket Skates (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11226",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Rocket Skates (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_png.png",
+  "original": {
+   "name": "holo_rocket_skates",
+   "image_inventory": "econ/stickers/community/jackass/holo_rocket_skates"
+  }
+ },
+ {
+  "id": "sticker-11227",
+  "name": "Adesivo | ZZZAP! (Holo)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11227",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Notável",
+   "color": "#8847ff"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | ZZZAP! (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_png.png",
+  "original": {
+   "name": "holo_zzzap",
+   "image_inventory": "econ/stickers/community/jackass/holo_zzzap"
+  }
+ },
+ {
+  "id": "sticker-11228",
+  "name": "Adesivo | Assterisk (Foil)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11228",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Assterisk (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_png.png",
+  "original": {
+   "name": "foil_assterisk",
+   "image_inventory": "econ/stickers/community/jackass/foil_assterisk"
+  }
+ },
+ {
+  "id": "sticker-11229",
+  "name": "Adesivo | Censored (Foil)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11229",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Censored (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_png.png",
+  "original": {
+   "name": "foil_censored",
+   "image_inventory": "econ/stickers/community/jackass/foil_censored"
+  }
+ },
+ {
+  "id": "sticker-11230",
+  "name": "Adesivo | Explosives (Foil)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11230",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Explosives (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_png.png",
+  "original": {
+   "name": "foil_explosives",
+   "image_inventory": "econ/stickers/community/jackass/foil_explosives"
+  }
+ },
+ {
+  "id": "sticker-11231",
+  "name": "Adesivo | Radiograph (Foil)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11231",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Radiograph (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_png.png",
+  "original": {
+   "name": "foil_radiograph",
+   "image_inventory": "econ/stickers/community/jackass/foil_radiograph"
+  }
+ },
+ {
+  "id": "sticker-11232",
+  "name": "Adesivo | WARNING (Foil)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11232",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exótico",
+   "color": "#d32ce6"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | WARNING (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_png.png",
+  "original": {
+   "name": "foil_warning",
+   "image_inventory": "econ/stickers/community/jackass/foil_warning"
+  }
+ },
+ {
+  "id": "sticker-11233",
+  "name": "Adesivo | Electric Avenue (Lenticular)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11233",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Electric Avenue (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_png.png",
+  "original": {
+   "name": "lenticular_electric_avenue",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_electric_avenue"
+  }
+ },
+ {
+  "id": "sticker-11234",
+  "name": "Adesivo | Poo Cocktail Supreme (Lenticular)",
+  "description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+  "def_index": "11234",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinário",
+   "color": "#eb4b4b"
+  },
+  "crates": [
+   {
+    "id": "crate-7041",
+    "name": "Jackass Sticker Capsule",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   }
+  ],
+  "collections": [],
+  "type": "Other",
+  "market_hash_name": "Sticker | Poo Cocktail Supreme (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_png.png",
+  "original": {
+   "name": "lenticular_poo_cocktail",
+   "image_inventory": "econ/stickers/community/jackass/lenticular_poo_cocktail"
+  }
  }
 ]

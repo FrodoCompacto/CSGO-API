@@ -25698,6 +25698,16 @@
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnk-C5O6PeRe7BsNOSBD2yvwu9mo_RlSmfiwBh_4D_dz9z4J3PDOAJ2WZUkQbYP5kO_kdbnNr7g5g3XjIsWm3_9kGoXuV-uka_9"
   },
+  "7041": {
+   "name": "Jackass Sticker Capsule",
+   "rarity": {
+    "id": "rarity_common",
+    "name": "Nível Básico",
+    "color": "#b0c3d9"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+  },
   "5120_highlight": {
    "name": "Pacote de Lembrança com Destaque do Austin 2025 — Inferno",
    "rarity": {
@@ -136721,6 +136731,396 @@
    },
    "marketable": true,
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png"
+  },
+  "11196": {
+   "name": "Adesivo | Airhorn",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_png.png"
+  },
+  "11197": {
+   "name": "Adesivo | Assterisk",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_png.png"
+  },
+  "11198": {
+   "name": "Adesivo | Big Red Rocket",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_png.png"
+  },
+  "11199": {
+   "name": "Adesivo | Boner Snap",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_png.png"
+  },
+  "11200": {
+   "name": "Adesivo | Censored",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_png.png"
+  },
+  "11201": {
+   "name": "Adesivo | Explosives",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_png.png"
+  },
+  "11202": {
+   "name": "Adesivo | Golf Cart",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_png.png"
+  },
+  "11203": {
+   "name": "Adesivo | Gonna Leave A Mark",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_png.png"
+  },
+  "11204": {
+   "name": "Adesivo | Head In Hands",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_png.png"
+  },
+  "11205": {
+   "name": "Adesivo | High Five!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_png.png"
+  },
+  "11206": {
+   "name": "Adesivo | Jackass",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_png.png"
+  },
+  "11207": {
+   "name": "Adesivo | Partyboy",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_png.png"
+  },
+  "11208": {
+   "name": "Adesivo | Radiograph",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_png.png"
+  },
+  "11209": {
+   "name": "Adesivo | Rocket Skates",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_png.png"
+  },
+  "11210": {
+   "name": "Adesivo | Skull Bunny",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_png.png"
+  },
+  "11211": {
+   "name": "Adesivo | The Magic Trick",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_png.png"
+  },
+  "11212": {
+   "name": "Adesivo | WARNING",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_png.png"
+  },
+  "11213": {
+   "name": "Adesivo | ZZZAP!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_png.png"
+  },
+  "11214": {
+   "name": "Adesivo | Airhorn (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_png.png"
+  },
+  "11215": {
+   "name": "Adesivo | Assterisk (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_png.png"
+  },
+  "11216": {
+   "name": "Adesivo | Big Red Rocket (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_png.png"
+  },
+  "11217": {
+   "name": "Adesivo | Head In Hands (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_png.png"
+  },
+  "11218": {
+   "name": "Adesivo | High Five! (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_png.png"
+  },
+  "11219": {
+   "name": "Adesivo | Skull Bunny (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_png.png"
+  },
+  "11220": {
+   "name": "Adesivo | The Magic Trick (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_png.png"
+  },
+  "11221": {
+   "name": "Adesivo | Boner Snap (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_png.png"
+  },
+  "11222": {
+   "name": "Adesivo | Jackass (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_png.png"
+  },
+  "11223": {
+   "name": "Adesivo | Gonna Leave A Mark (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_png.png"
+  },
+  "11224": {
+   "name": "Adesivo | Partyboy (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_png.png"
+  },
+  "11225": {
+   "name": "Adesivo | Radiograph (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_png.png"
+  },
+  "11226": {
+   "name": "Adesivo | Rocket Skates (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_png.png"
+  },
+  "11227": {
+   "name": "Adesivo | ZZZAP! (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_png.png"
+  },
+  "11228": {
+   "name": "Adesivo | Assterisk (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_png.png"
+  },
+  "11229": {
+   "name": "Adesivo | Censored (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_png.png"
+  },
+  "11230": {
+   "name": "Adesivo | Explosives (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_png.png"
+  },
+  "11231": {
+   "name": "Adesivo | Radiograph (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_png.png"
+  },
+  "11232": {
+   "name": "Adesivo | WARNING (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_png.png"
+  },
+  "11233": {
+   "name": "Adesivo | Electric Avenue (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_png.png"
+  },
+  "11234": {
+   "name": "Adesivo | Poo Cocktail Supreme (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_png.png"
   }
  },
  "graffiti": {
@@ -271717,6 +272117,396 @@
    },
    "marketable": true,
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37_png.png"
+  },
+  "11196": {
+   "name": "Placa de Adesivo | Airhorn",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_1355_37_png.png"
+  },
+  "11197": {
+   "name": "Placa de Adesivo | Assterisk",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_1355_37_png.png"
+  },
+  "11198": {
+   "name": "Placa de Adesivo | Big Red Rocket",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_1355_37_png.png"
+  },
+  "11199": {
+   "name": "Placa de Adesivo | Boner Snap",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_1355_37_png.png"
+  },
+  "11200": {
+   "name": "Placa de Adesivo | Censored",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_1355_37_png.png"
+  },
+  "11201": {
+   "name": "Placa de Adesivo | Explosives",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_1355_37_png.png"
+  },
+  "11202": {
+   "name": "Placa de Adesivo | Golf Cart",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_1355_37_png.png"
+  },
+  "11203": {
+   "name": "Placa de Adesivo | Gonna Leave A Mark",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_1355_37_png.png"
+  },
+  "11204": {
+   "name": "Placa de Adesivo | Head In Hands",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_1355_37_png.png"
+  },
+  "11205": {
+   "name": "Placa de Adesivo | High Five!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_1355_37_png.png"
+  },
+  "11206": {
+   "name": "Placa de Adesivo | Jackass",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_1355_37_png.png"
+  },
+  "11207": {
+   "name": "Placa de Adesivo | Partyboy",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_1355_37_png.png"
+  },
+  "11208": {
+   "name": "Placa de Adesivo | Radiograph",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_1355_37_png.png"
+  },
+  "11209": {
+   "name": "Placa de Adesivo | Rocket Skates",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_1355_37_png.png"
+  },
+  "11210": {
+   "name": "Placa de Adesivo | Skull Bunny",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_1355_37_png.png"
+  },
+  "11211": {
+   "name": "Placa de Adesivo | The Magic Trick",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_1355_37_png.png"
+  },
+  "11212": {
+   "name": "Placa de Adesivo | WARNING",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_1355_37_png.png"
+  },
+  "11213": {
+   "name": "Placa de Adesivo | ZZZAP!",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Alta Qualidade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_1355_37_png.png"
+  },
+  "11214": {
+   "name": "Placa de Adesivo | Airhorn (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_1355_37_png.png"
+  },
+  "11215": {
+   "name": "Placa de Adesivo | Assterisk (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_1355_37_png.png"
+  },
+  "11216": {
+   "name": "Placa de Adesivo | Big Red Rocket (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_1355_37_png.png"
+  },
+  "11217": {
+   "name": "Placa de Adesivo | Head In Hands (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_1355_37_png.png"
+  },
+  "11218": {
+   "name": "Placa de Adesivo | High Five! (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_1355_37_png.png"
+  },
+  "11219": {
+   "name": "Placa de Adesivo | Skull Bunny (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_1355_37_png.png"
+  },
+  "11220": {
+   "name": "Placa de Adesivo | The Magic Trick (Glitter)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_1355_37_png.png"
+  },
+  "11221": {
+   "name": "Placa de Adesivo | Boner Snap (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_1355_37_png.png"
+  },
+  "11222": {
+   "name": "Placa de Adesivo | Jackass (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_1355_37_png.png"
+  },
+  "11223": {
+   "name": "Placa de Adesivo | Gonna Leave A Mark (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_1355_37_png.png"
+  },
+  "11224": {
+   "name": "Placa de Adesivo | Partyboy (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_1355_37_png.png"
+  },
+  "11225": {
+   "name": "Placa de Adesivo | Radiograph (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_1355_37_png.png"
+  },
+  "11226": {
+   "name": "Placa de Adesivo | Rocket Skates (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_1355_37_png.png"
+  },
+  "11227": {
+   "name": "Placa de Adesivo | ZZZAP! (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Notável",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_1355_37_png.png"
+  },
+  "11228": {
+   "name": "Placa de Adesivo | Assterisk (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_1355_37_png.png"
+  },
+  "11229": {
+   "name": "Placa de Adesivo | Censored (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_1355_37_png.png"
+  },
+  "11230": {
+   "name": "Placa de Adesivo | Explosives (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_1355_37_png.png"
+  },
+  "11231": {
+   "name": "Placa de Adesivo | Radiograph (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_1355_37_png.png"
+  },
+  "11232": {
+   "name": "Placa de Adesivo | WARNING (Foil)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exótico",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_1355_37_png.png"
+  },
+  "11233": {
+   "name": "Placa de Adesivo | Electric Avenue (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_1355_37_png.png"
+  },
+  "11234": {
+   "name": "Placa de Adesivo | Poo Cocktail Supreme (Lenticular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinário",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37_png.png"
   }
  },
  "tools": {
