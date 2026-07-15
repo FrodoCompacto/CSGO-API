@@ -1,6 +1,6 @@
 {
-  "version": "2497545b8ec1517f413145f60d8fe129867902bd",
-  "generated_at": "2026-07-14T07:44:46.747Z",
+  "version": "037fb21e26bb82f4e9765122b10bbd7e8fe4fdfb",
+  "generated_at": "2026-07-15T07:48:05.387Z",
   "languages": [
     "en",
     "pt-BR"
@@ -111,8 +111,8 @@
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
-        "bytes": 38142,
-        "sha256": "81ec06cab6430461097065a981af0bf0e572d27415b2a095a24a37106b668de0"
+        "bytes": 38138,
+        "sha256": "9609b5a8dd306ce350b00ccef9c2793e1532975bcb87d8aabee095f84532070b"
       },
       "collectibles.json": {
         "path": "/public/api/pt-BR/collectibles.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "e690434244b40cb8d3e5e602943d334268fbf85e0743a9f576f5bba6a63067ba"
+  "manifest_sha256": "5446ca5b5478036d1fba51396db084bc5b77017bf5e5fa829328772d42dabbb7"
 }
