@@ -419,7 +419,7 @@
  },
  {
   "id": "base_weapon-weapon_c4",
-  "name": "Explosivo C4",
+  "name": "Bomba C4",
   "description": "Estável e resistente a impactos físicos, este explosivo plástico improvisado tem uma velocidade de detonação de mais de 8.000 metros por segundo ao ser ativado.",
   "def_index": 49,
   "category": {
