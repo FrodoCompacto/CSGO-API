@@ -1,6 +1,6 @@
 {
-  "version": "73acb6e4022ece67267de7ac0d383ecabc386602",
-  "generated_at": "2026-08-10T07:06:23.988Z",
+  "version": "7aad4d89645a4963a132d0fea36a37c82c2990b1",
+  "generated_at": "2026-08-11T06:44:31.358Z",
   "languages": [
     "en",
     "pt-BR"
@@ -106,8 +106,8 @@
       },
       "all.json": {
         "path": "/public/api/pt-BR/all.json",
-        "bytes": 71200477,
-        "sha256": "ca5eada47ab9d2d9e04da977274321f9d62610df42396b11ca2bafba8b5a907b"
+        "bytes": 71216731,
+        "sha256": "4d7c0f3fd4122ba4374da9364d7773963774b3a5d1ab5eec5ef2010dcfe65869"
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
@@ -141,8 +141,8 @@
       },
       "inventory.json": {
         "path": "/public/api/pt-BR/inventory.json",
-        "bytes": 12356818,
-        "sha256": "768ceb3fd41b4aa9e6d1066b64a62b7b74ba5aabd6434239b25c86cd1982bfe3"
+        "bytes": 12373072,
+        "sha256": "4d76d1407abfd3a0eec745105605bdff4a93fecdbac4affd91bf7aad85e352c9"
       },
       "keychains.json": {
         "path": "/public/api/pt-BR/keychains.json",
@@ -176,13 +176,13 @@
       },
       "sticker_slabs.json": {
         "path": "/public/api/pt-BR/sticker_slabs.json",
-        "bytes": 18564642,
-        "sha256": "d07566d843e5f50899570c5538655c05ba2f3b9280a8bed96ad9d0abe87566d1"
+        "bytes": 18572769,
+        "sha256": "0448f766d81ed93dc617bd804bd91ee21b53278e9c4d65c1a44f8f0848cb47ed"
       },
       "stickers.json": {
         "path": "/public/api/pt-BR/stickers.json",
-        "bytes": 20204582,
-        "sha256": "724efb82476554afbbad2568f785d4aab69a53c863e4cda28bbe2f8d9bca3fc4"
+        "bytes": 20212709,
+        "sha256": "07266280b19de067ee0dcbbced8729ff67b6ad85f7b50ae0882180bf2d139a00"
       },
       "tools.json": {
         "path": "/public/api/pt-BR/tools.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "bc978231dba276e63d45f18a59a778889a2c7ee34f955075fdd73557d90bdbb9"
+  "manifest_sha256": "50d2ffd096f6831a0e149b73a0e517035534066f3af4b73cf82ed0ee586a230b"
 }
