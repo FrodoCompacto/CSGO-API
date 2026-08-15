@@ -1,6 +1,6 @@
 {
-  "version": "8ee92c69af4a29637b2085123f2afdb8ca2023e0",
-  "generated_at": "2026-08-14T07:05:14.535Z",
+  "version": "8d593445f3cd39fe35b486b3dc7438951705c204",
+  "generated_at": "2026-08-15T06:18:14.529Z",
   "languages": [
     "en",
     "pt-BR"
@@ -14,8 +14,8 @@
       },
       "all.json": {
         "path": "/public/api/en/all.json",
-        "bytes": 69539577,
-        "sha256": "2385ce5b95c260077e4a1c13ee2b30e3c3c48971a4c699f1e1e8effd894f2322"
+        "bytes": 69542887,
+        "sha256": "8e5244029cada9dd74df19d5f32b108de083e8c8c04f3b134df8b85b8bcd06b5"
       },
       "base_weapons.json": {
         "path": "/public/api/en/base_weapons.json",
@@ -49,8 +49,8 @@
       },
       "inventory.json": {
         "path": "/public/api/en/inventory.json",
-        "bytes": 12162773,
-        "sha256": "0cbce9636c404b67a0f35513012590850904399b51fe154afdaf24e34abee6ae"
+        "bytes": 12166083,
+        "sha256": "21057bc88d8c512f2e80246e716f8c9096fe7b9b60d324698fa52d4c398cd1db"
       },
       "keychains.json": {
         "path": "/public/api/en/keychains.json",
@@ -84,13 +84,13 @@
       },
       "sticker_slabs.json": {
         "path": "/public/api/en/sticker_slabs.json",
-        "bytes": 18229821,
-        "sha256": "05e3fcce0f30a221fa18452d14e1921ce305042c7601a978410155ba80ad1ea8"
+        "bytes": 18231500,
+        "sha256": "8647ff1e74c34477e682f30b84e66bd25aad39f1a8cdaa6eef5a7f20f07311de"
       },
       "stickers.json": {
         "path": "/public/api/en/stickers.json",
-        "bytes": 19671732,
-        "sha256": "d88a82067c31f6c4632ffab0a1f5c6c1f155ff77b6ebf43d7b4beee51b72bbfd"
+        "bytes": 19673363,
+        "sha256": "0b424bc8c646a8f8e93750f585658d06d6f8875174bab77d0c68d94afc5f0827"
       },
       "tools.json": {
         "path": "/public/api/en/tools.json",
@@ -106,8 +106,8 @@
       },
       "all.json": {
         "path": "/public/api/pt-BR/all.json",
-        "bytes": 71236267,
-        "sha256": "d0369244d33067f51053b23624ec58dc854c47b8e24023ed30dcaa1a903155fc"
+        "bytes": 71239577,
+        "sha256": "56bcfc2df78698ef2aee0e2fdb9e94dc01aaea1306bd209167a3381178367c04"
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
@@ -141,8 +141,8 @@
       },
       "inventory.json": {
         "path": "/public/api/pt-BR/inventory.json",
-        "bytes": 12392608,
-        "sha256": "35a6f20055644e397727841a73aa28a6d5bc83aa0c4265c1e20167cee1003864"
+        "bytes": 12395918,
+        "sha256": "965de09e1e4c5ed951d533f5ca4c139535cc61a135201bba725a2e4dde34ba92"
       },
       "keychains.json": {
         "path": "/public/api/pt-BR/keychains.json",
@@ -176,13 +176,13 @@
       },
       "sticker_slabs.json": {
         "path": "/public/api/pt-BR/sticker_slabs.json",
-        "bytes": 18575815,
-        "sha256": "d42ec1979b2db50a3df089ef159a64fd1293d24df311267b4fea61d41df6404b"
+        "bytes": 18577494,
+        "sha256": "539df9df89b9fe77186a271ca54d34b4aa93c29a53c741754b2d6e67bf275174"
       },
       "stickers.json": {
         "path": "/public/api/pt-BR/stickers.json",
-        "bytes": 20229199,
-        "sha256": "2ee757b6011db8fa63b6491265c44deb34ee0f5cc4949f3552b12954d0de8214"
+        "bytes": 20230830,
+        "sha256": "d433cd24dc15f2851805b3a250c99b49a1dd41b6938b4484b7323728e24fc124"
       },
       "tools.json": {
         "path": "/public/api/pt-BR/tools.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "1942f7699901965f2b6347544d3d50f77f42723fe991021fad718d20d83a7c79"
+  "manifest_sha256": "fe0987cc8df8546ae4dc2cb900b4377017c78a3cd15cb565806871294d1cd2dc"
 }
