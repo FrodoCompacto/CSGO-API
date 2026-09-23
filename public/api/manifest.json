@@ -1,6 +1,6 @@
 {
-  "version": "bc2622358292d9b9edda70aa591f100a24174986",
-  "generated_at": "2026-09-22T10:29:09.853Z",
+  "version": "224744e9fe17b4e18101cba8626bad84c510bdb4",
+  "generated_at": "2026-09-23T10:24:32.132Z",
   "languages": [
     "en",
     "pt-BR"
@@ -14,8 +14,8 @@
       },
       "all.json": {
         "path": "/public/api/en/all.json",
-        "bytes": 69561720,
-        "sha256": "e0fa3c6a6656fe794e843136555cf3d4ac3d2432bf6f2632584461816e59931b"
+        "bytes": 69564073,
+        "sha256": "3d4eb3b0a73458aad2c9ae5485fa6ca96a46b8d18505eb1589f7e2b081744862"
       },
       "base_weapons.json": {
         "path": "/public/api/en/base_weapons.json",
@@ -49,8 +49,8 @@
       },
       "inventory.json": {
         "path": "/public/api/en/inventory.json",
-        "bytes": 12184916,
-        "sha256": "c971408bf2085f7510a162a129e2a8ac7113d5ff6c24c4d59662ac5960dcd3c0"
+        "bytes": 12185267,
+        "sha256": "355cb09fab0d06b4483a9e5dc9dfa9ab99fb2db1e0965822758b9dc22290173d"
       },
       "keychains.json": {
         "path": "/public/api/en/keychains.json",
@@ -64,8 +64,8 @@
       },
       "music_kits.json": {
         "path": "/public/api/en/music_kits.json",
-        "bytes": 239119,
-        "sha256": "1e11c374cbfb41ad099339a3f72b1c8698c05b7ed3d6aabdbe9a469aeb048b43"
+        "bytes": 241579,
+        "sha256": "dec1588f3a0add10a87a6a451ff6b71fbe82fe10d5411d55bbf2d8f4ffb1f798"
       },
       "patches.json": {
         "path": "/public/api/en/patches.json",
@@ -106,8 +106,8 @@
       },
       "all.json": {
         "path": "/public/api/pt-BR/all.json",
-        "bytes": 71258410,
-        "sha256": "5a2289f0d6315cf928b8720bdf7f826b919e1f059dd708480f20e65f854fca19"
+        "bytes": 71260939,
+        "sha256": "cbd534f6b0f3f7e72f4480e21e97a4c2e7ad90680d7641ca9cb13b367507fef2"
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
@@ -141,8 +141,8 @@
       },
       "inventory.json": {
         "path": "/public/api/pt-BR/inventory.json",
-        "bytes": 12414751,
-        "sha256": "5af93b371165b7c347120cbe53d40bc21c5624a0e5e87bd289afd3f35e0b6fab"
+        "bytes": 12415106,
+        "sha256": "ea1a314e2961f1e0f3f6015579b9470c00d99d7f206f2a2e643e538be9acceef"
       },
       "keychains.json": {
         "path": "/public/api/pt-BR/keychains.json",
@@ -156,8 +156,8 @@
       },
       "music_kits.json": {
         "path": "/public/api/pt-BR/music_kits.json",
-        "bytes": 259899,
-        "sha256": "3cf5fd15d0af5fce43265066348b7bc930986eba4524d3fba3ed42d3b269aa5b"
+        "bytes": 262535,
+        "sha256": "9b41d2a240484d82efb45c36eda115c68ec11f7bd6974fd9fbf8b26cd1f8b676"
       },
       "patches.json": {
         "path": "/public/api/pt-BR/patches.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "3c8eaa3d3d219d54b566a923b4d5327777b8affd9025fd71066ba4e726f7943c"
+  "manifest_sha256": "61c42b49fa8fadd92e0aca5d4f2a6e72af6ff8c4952cf8c52befd29b96c588e6"
 }
