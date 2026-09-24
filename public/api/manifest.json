@@ -1,6 +1,6 @@
 {
-  "version": "224744e9fe17b4e18101cba8626bad84c510bdb4",
-  "generated_at": "2026-09-23T10:24:32.132Z",
+  "version": "aea26c633d749980c29455096908e833d22588cb",
+  "generated_at": "2026-09-24T10:41:10.436Z",
   "languages": [
     "en",
     "pt-BR"
@@ -106,8 +106,8 @@
       },
       "all.json": {
         "path": "/public/api/pt-BR/all.json",
-        "bytes": 71260939,
-        "sha256": "cbd534f6b0f3f7e72f4480e21e97a4c2e7ad90680d7641ca9cb13b367507fef2"
+        "bytes": 71260927,
+        "sha256": "41cfd4cdcd699226d595a1c2b4f6358c02d1b621ff79401a97609617a18a898a"
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
@@ -141,8 +141,8 @@
       },
       "inventory.json": {
         "path": "/public/api/pt-BR/inventory.json",
-        "bytes": 12415106,
-        "sha256": "ea1a314e2961f1e0f3f6015579b9470c00d99d7f206f2a2e643e538be9acceef"
+        "bytes": 12415110,
+        "sha256": "dd3c84c9d7a47c215aef956a9944468ea667a9a0e1c2bb21466476901b375f47"
       },
       "keychains.json": {
         "path": "/public/api/pt-BR/keychains.json",
@@ -156,8 +156,8 @@
       },
       "music_kits.json": {
         "path": "/public/api/pt-BR/music_kits.json",
-        "bytes": 262535,
-        "sha256": "9b41d2a240484d82efb45c36eda115c68ec11f7bd6974fd9fbf8b26cd1f8b676"
+        "bytes": 262523,
+        "sha256": "a32701f142163690fbe8421d21c7a667f804089f8c9b113752c71b04d3160a09"
       },
       "patches.json": {
         "path": "/public/api/pt-BR/patches.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "61c42b49fa8fadd92e0aca5d4f2a6e72af6ff8c4952cf8c52befd29b96c588e6"
+  "manifest_sha256": "4d4ebd86eed0d71f85473e6889179df2211d2c5647b47c579fc4883eb011fdf0"
 }
