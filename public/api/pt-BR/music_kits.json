@@ -3403,8 +3403,8 @@
  },
  {
   "id": "music_kit-104",
-  "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
-  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "name": "Trilha Sonora | Starjunk 95, Industrial Sunset Memories",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Experimente uma trilha sonora da rádio mais badalada da galáxia, apresentando os sons mais modernos com a nostalgia vintage do passado. Isso é Starjunk 95.",
   "def_index": "104",
   "rarity": {
    "id": "rarity_rare",
@@ -3421,8 +3421,8 @@
  },
  {
   "id": "music_kit-104_st",
-  "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
-  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "name": "Trilha Sonora StatTrak™ | Starjunk 95, Industrial Sunset Memories",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Experimente uma trilha sonora da rádio mais badalada da galáxia, apresentando os sons mais modernos com a nostalgia vintage do passado. Isso é Starjunk 95.",
   "def_index": "104",
   "rarity": {
    "id": "rarity_rare",
