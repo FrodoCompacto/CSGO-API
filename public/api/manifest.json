@@ -1,6 +1,6 @@
 {
-  "version": "a93fd80e4dc0725e12537b0c82af090d86100ccb",
-  "generated_at": "2026-10-30T11:47:57.251Z",
+  "version": "9ce9f93060133efd1c6bcee2844ba891ea0ab53b",
+  "generated_at": "2026-10-31T11:21:42.740Z",
   "languages": [
     "en",
     "pt-BR"
@@ -14,8 +14,8 @@
       },
       "all.json": {
         "path": "/public/api/en/all.json",
-        "bytes": 69570548,
-        "sha256": "7649c1a9b481800227efdac73e758b506931949928e385b94177f08e5ce1487c"
+        "bytes": 69571253,
+        "sha256": "43b685c8256d7e07dbc401cb26d4a1f13d47f4f9883a554c27200047342b8915"
       },
       "base_weapons.json": {
         "path": "/public/api/en/base_weapons.json",
@@ -49,8 +49,8 @@
       },
       "inventory.json": {
         "path": "/public/api/en/inventory.json",
-        "bytes": 12191663,
-        "sha256": "e6f7761e3c4d94bf50ddf974e6ea17b630c55afab661f6bdf54992160997689d"
+        "bytes": 12192368,
+        "sha256": "ec5a7eb5513a621968320c6d8e40abc5462267b5a038eaada4151bb5065268ff"
       },
       "keychains.json": {
         "path": "/public/api/en/keychains.json",
@@ -84,8 +84,8 @@
       },
       "sticker_slabs.json": {
         "path": "/public/api/en/sticker_slabs.json",
-        "bytes": 18250305,
-        "sha256": "96d59f4212cb1273c19f198d0e5c901faee6192c026fde18a79723bcb327d2c7"
+        "bytes": 18251010,
+        "sha256": "fc06f4a99e03412ccc2328d61ff8c12fe714f9671891d241de201cd6d2d9700c"
       },
       "stickers.json": {
         "path": "/public/api/en/stickers.json",
@@ -106,8 +106,8 @@
       },
       "all.json": {
         "path": "/public/api/pt-BR/all.json",
-        "bytes": 71267402,
-        "sha256": "8aab03160dc95cae414eb4c79d44027816abb6c496eafe3b3f08a4695e450bab"
+        "bytes": 71268107,
+        "sha256": "b13f553aa95da3e0997339b8dc9cab504e1d0c417c86e2fccaf289440b304120"
       },
       "base_weapons.json": {
         "path": "/public/api/pt-BR/base_weapons.json",
@@ -141,8 +141,8 @@
       },
       "inventory.json": {
         "path": "/public/api/pt-BR/inventory.json",
-        "bytes": 12421506,
-        "sha256": "02423f482791763d5942b309ed84392ab7ddaf6ee99ef6370059379033fc21af"
+        "bytes": 12422211,
+        "sha256": "26e4883c27a9edebc75807f2f639e1d562c37d62973f6ad4a001ddefd2f2ee20"
       },
       "keychains.json": {
         "path": "/public/api/pt-BR/keychains.json",
@@ -176,8 +176,8 @@
       },
       "sticker_slabs.json": {
         "path": "/public/api/pt-BR/sticker_slabs.json",
-        "bytes": 18596299,
-        "sha256": "00ff13e66afa654e74b71f913b0b027337004566483865ab378ea24e433429ab"
+        "bytes": 18597004,
+        "sha256": "3b208873e6022e7eee3d63c705edcc1cf6f8268d8ca998281f66c69ae66d59a5"
       },
       "stickers.json": {
         "path": "/public/api/pt-BR/stickers.json",
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "d051967c4b9635c9a2d3175022709841e87f3181bb77e6c140079d59adfc5e84"
+  "manifest_sha256": "c98efd7b11f24b52c360997ecc64f0a6c088e586103a6e9e0bfa37f832173877"
 }
