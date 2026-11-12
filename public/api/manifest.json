@@ -1,6 +1,6 @@
 {
-  "version": "2836dd6296dd73f0fe6d54a64957fe0bb077dc8d",
-  "generated_at": "2026-11-11T13:06:07.723Z",
+  "version": "926247ff47bd37cae5c6ae0e6b884b2dd4a4e5d8",
+  "generated_at": "2026-11-12T14:09:38.561Z",
   "languages": [
     "en",
     "pt-BR"
@@ -191,5 +191,5 @@
       }
     }
   },
-  "manifest_sha256": "fda10a7bacbda1fd6cd290ccd40b8e3f852cdb799d9aa3d49e7343a652da0648"
+  "manifest_sha256": "27cbea829186f607beeb74922a5e450a073b82c02f4e6a2eee9f29eb09bca234"
 }
