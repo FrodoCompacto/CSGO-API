@@ -3436,5 +3436,293 @@
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   }
+ },
+ {
+  "id": "music_kit-105",
+  "name": "Trilha Sonora | ALLEYCVT & LEVEL UP, BELIEVE",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>ALLEYCVT e LEVEL UP unem forças em \\\"BELIEVE\\\", um álbum de acordes de baixo implacável com drops tão pesados ​que farão o servidor inteiro tremer.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-105_st",
+  "name": "Trilha Sonora StatTrak™ | ALLEYCVT & LEVEL UP, BELIEVE",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>ALLEYCVT e LEVEL UP unem forças em \\\"BELIEVE\\\", um álbum de acordes de baixo implacável com drops tão pesados ​que farão o servidor inteiro tremer.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-106",
+  "name": "Trilha Sonora | Arcando & Pirapus, Ultrasound",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>De Arcando e Pirapus, \\\"Ultrasound\\\" é um hino de bateria e baixo de alta velocidade que mantém a pressão desde o primeiro contato até a morte final.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-106_st",
+  "name": "Trilha Sonora StatTrak™ | Arcando & Pirapus, Ultrasound",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>De Arcando e Pirapus, \\\"Ultrasound\\\" é um hino de bateria e baixo de alta velocidade que mantém a pressão desde o primeiro contato até a morte final.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-107",
+  "name": "Trilha Sonora | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Quando DJ DIESEL, também conhecido como Shaquille O'Neal, se junta ao peso-pesado do baixo Hairitage, o resultado é \\\"BANG YOUR HEAD\\\", um hit de dubstep de arrasar feito para tiros na cabeça.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-107_st",
+  "name": "Trilha Sonora StatTrak™ | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Quando DJ DIESEL, também conhecido como Shaquille O'Neal, se junta ao peso-pesado do baixo Hairitage, o resultado é \\\"BANG YOUR HEAD\\\", um hit de dubstep de arrasar feito para tiros na cabeça.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-108",
+  "name": "Trilha Sonora | F.O.O.L, Criminals",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Finalmente, o lado Terrorista tem a sua própria música tema. Sombria, cinematográfica e repleta de synthwave, \\\"Criminals\\\", de F.O.O.L, oferece uma trilha para cada execução.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-108_st",
+  "name": "Trilha SonoraStatTrak™ | F.O.O.L, Criminals",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Finalmente, o lado Terrorista tem a sua própria música tema. Sombria, cinematográfica e repleta de synthwave, \\\"Criminals\\\", de F.O.O.L, oferece uma trilha para cada execução.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-109",
+  "name": "Trilha Sonora | Noisestorm, Crab Rave",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Após lançamento no 1º de Abril de 2018, \\\"Crab Rave\\\", de Noisestorm, tornou-se uma lenda na internet. Ganhe a rodada e espalhe a notícia: a equipe inimiga está fora.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-109_st",
+  "name": "Trilha Sonora StatTrak™ | Noisestorm, Crab Rave",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Após lançamento no 1º de Abril de 2018, \\\"Crab Rave\\\", de Noisestorm, tornou-se uma lenda na internet. Ganhe a rodada e espalhe a notícia: a equipe inimiga está fora.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-110",
+  "name": "Trilha Sonora | Pegboard Nerds, Disconnected",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>\\\"Disconnected\\\", dos Pegboard Nerds, é um clássico da Monstercat que vem causando curto-circuito nos alto-falantes há mais de uma década. Desta vez, é a outra equipe que vai se desconectar.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-110_st",
+  "name": "Trilha Sonora StatTrak™ | Pegboard Nerds, Disconnected",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>\\\"Disconnected\\\", dos Pegboard Nerds, é um clássico da Monstercat que vem causando curto-circuito nos alto-falantes há mais de uma década. Desta vez, é a outra equipe que vai se desconectar.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-111",
+  "name": "Trilha Sonora | Tristam & Braken, Flight",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>O single \\\"Flight\\\", de Tristam & Braken, é pura nostalgia e soa tão bem hoje quanto quando foi lançado originalmente em 2013.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-111_st",
+  "name": "Trilha Sonora StatTrak™ | Tristam & Braken, Flight",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>O single \\\"Flight\\\", de Tristam & Braken, é pura nostalgia e soa tão bem hoje quanto quando foi lançado originalmente em 2013.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-112",
+  "name": "Trilha Sonora | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "description": "Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Algumas músicas nos transportam diretamente para o passado, e \\\"Nevada\\\", dos Vicetone, é uma dose de 2016, perfeita para comemorar uma vitória.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
+ },
+ {
+  "id": "music_kit-112_st",
+  "name": "Trilha Sonora StatTrak™ | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "description": "<span style='color:#99ccff;'>Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.</span><br/><br/><span style='color:#cf6a32;'>Este item contabiliza estrelas de destaque em partidas competitivas oficiais.</span><br/><br/>Esta trilha sonora substituirá todas as músicas do jogo e pode ser compartilhada com todos os jogadores da partida. Também inclui um hino de destaque que é reproduzido a todos na partida quando você for o destaque da rodada.\\n\\nA trilha sonora substitui as seguintes músicas:\\n— Menu principal\\n— Início e fim da rodada\\n— Objetivo do mapa\\n— Alerta de dez segundos\\n— Câmera de morte<br/><br/>Algumas músicas nos transportam diretamente para o passado, e \\\"Nevada\\\", dos Vicetone, é uma dose de 2016, perfeita para comemorar uma vitória.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "Alta Qualidade",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
  }
 ]
